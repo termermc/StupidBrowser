@@ -21,9 +21,9 @@ I started this for fun in my spare time and decided that the web renderer was "s
 Why not try it out?
 
 # Screenshots
-![Stupid Browser default homepage](https://termer.net/stupidbrowser/stupid_browser.png)
+![Stupid Browser new tab](https://termer.net/stupidbrowser/stupid_browser.png)
 
-**_Stupid Browser's default homepage_**
+**_Stupid Browser's new tab_**
 
 
 ![Stupid Browser viewing Web-Site-Ring](https://termer.net/stupidbrowser/stupid_browser_web-site-ring.png)
