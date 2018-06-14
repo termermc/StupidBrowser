@@ -21,3 +21,4 @@ Why not try it out?
 
 # Screenshots
 ![Stupid Browser default homepage](https://termer.net/stupidbrowser/stupid_browser.png)
+![Stupid Browser viewing Web-Site-Ring](https://termer.net/stupidbrowser/stupid_browser_web-site-ring.png)
