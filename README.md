@@ -38,3 +38,8 @@ Why not try it out?
 ![Stupid Browser viewing an article](https://termer.net/stupidbrowser/stupid_browser_article.png)
 
 **_Viewing an article_**
+
+
+![Stupid Browser viewing this page](https://termer.net/stupidbrowser/stupid_browser_github.png)
+
+**_Viewing this page_**
